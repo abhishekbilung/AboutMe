@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="GIF" src="https://github.com/abhishekbilung/AboutMe/main/myCollection/coding-developer-code.gif?raw=true" height="280">
+    <img alt="GIF" src="https://github.com/abhishekbilung/AboutMe/main/myCollection/coding-developer-code.gif" height="280">
   </p>
 
 <h1>Hi 👋, I'm Abhishek Bilung</h1>
