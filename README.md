@@ -1,3 +1,8 @@
+<p align="center">
+    <img alt="GIF" src="https://github.com/abhishekbilung/AboutMe/myCollection/coding-developer-code.gif?raw=true" height="280">
+  </p>
+
+
 <h1>Hi 👋, I'm Abhishek Bilung</h1>
 <p>I'm currently studying...<br>I love exploring computational intelligence 🤖<br>Passionate about learning new things every day 📚<br>Always curious and ready to grow 🌱<br>Creativity is my Superpower!
 </p>
