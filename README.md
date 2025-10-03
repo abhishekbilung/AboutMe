@@ -1,7 +1,7 @@
 
 <h1 align="center"> Hi! I'm Abhishek Bilung <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
 
-<p>I'm currently studying...<br>I love exploring computational intelligence 🤖<br>Passionate about learning new things every day 📚<br>Always curious and ready to grow 🌱<br>Creativity is my Superpower!
+<p>I'm currently studying...<br>I love exploring Aritificial intelligence 🤖<br>Passionate about learning new things every day 📚<br>Always curious and ready to grow 🌱<br>Creativity is my Superpower!
 </p>
 
 <h2>🚀 Languages and Tools I Use</h2>
